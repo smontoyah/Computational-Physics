@@ -1,0 +1,39 @@
+NOTA 4,81
+
+
+==================================
+1.
+5.0
+BUEN TRABAJO!!
+==================================
+2.
+
+----------------------------------
+p1
+5.0
+BUEN TRABAJO, EXCELENTE PROPUESTA!!
+
+----------------------------------
+p2
+
+4.8
+-En el parámetro l=0, no funciona del todo bien, tienes el control de 
+errores, sin embargo, no funciona bien!!
+
+  ==================================
+3.
+
+----------------------------------
+p1
+5
+- BUEN TRABAJO!!
+----------------------------------
+p2
+4.5
+- Se utilizó la aproximación en la solución numérica?
+- En la clase PenduloSimple no se tiene métodos de plot (código duplicado)
+
+==================================
+4.
+5
+- BUEN TRABAJO!!
